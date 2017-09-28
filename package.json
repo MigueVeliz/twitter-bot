@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigueVeliz/twitter-bot.git"
+  },
+  "author": "Angel Veliz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigueVeliz/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/MigueVeliz/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
